@@ -1,0 +1,26 @@
+{
+  "name": "snowflutter",
+  "version": "1.0.0",
+  "description": "snow express with flutter",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "mongoose": "^5.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougfoo/snowflutter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougfoo/snowflutter/issues"
+  },
+  "homepage": "https://github.com/dougfoo/snowflutter#readme"
+}

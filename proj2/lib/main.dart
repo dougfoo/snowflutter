@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.only(bottom: 8),
                   child: Text(
-                    'Snow Sports Forecasting and Analytics',
+                    'Snow Sports Forecasting and Analytics (Beta)',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                     ),
@@ -65,10 +65,10 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'SnowFooCast &Analytics',
+      title: 'SnowFooCast & Analytics (Beta)',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('SnowFooCast & Analytics'),
+          title: Text('SnowFooCast & Analytics (Beta)'),
         ),
         body: ListView (            
           children: [            
